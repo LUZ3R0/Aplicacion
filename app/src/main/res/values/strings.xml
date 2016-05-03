@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppInp</string>
+    <string name="nombre">Nombre completo:</string>
+    <string name="telefono">Teléfono:</string>
+    <string name="descripcion">Descripción Contacto:</string>
+    <string name="boton">Siguiente</string>
+    <string name="email">Email:</string>
+    <string name="editar">Editar Datos</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="contenido">Contenido del input</string>
+    <string name="fecha">Fecha:</string>
+    <string name="botcancel">Cancelar</string>
+    <string name="botok">Ok</string>
+
+</resources>
